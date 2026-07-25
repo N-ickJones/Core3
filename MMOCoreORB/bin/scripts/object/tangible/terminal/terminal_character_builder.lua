@@ -1960,141 +1960,141 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 					},
 					"Master", "combat_1hsword_master"
 				},
-				--"Force Sensitive",
-				--{
-				--	"Combat Prowess",
-				--	{
-				--		"Novice", "force_sensitive_combat_prowess_novice",
-				--		"Ranged Accuracy",
-				--		{
-				--			"Ranged Accuracy I", "force_sensitive_combat_prowess_ranged_accuracy_01",
-				--			"Ranged Accuracy II", "force_sensitive_combat_prowess_ranged_accuracy_02",
-				--			"Ranged Accuracy III", "force_sensitive_combat_prowess_ranged_accuracy_03",
-				--			"Ranged Accuracy IV", "force_sensitive_combat_prowess_ranged_accuracy_04"
-				--		},
-				--		"Ranged Speed",
-				--		{
-				--			"Ranged Speed I", "force_sensitive_combat_prowess_ranged_speed_01",
-				--			"Ranged Speed II", "force_sensitive_combat_prowess_ranged_speed_02",
-				--			"Ranged Speed III", "force_sensitive_combat_prowess_ranged_speed_03",
-				--			"Ranged Speed IV", "force_sensitive_combat_prowess_ranged_speed_04"
-				--		},
-				--		"Melee Accuracy",
-				--		{
-				--			"Melee Accuracy I", "force_sensitive_combat_prowess_melee_accuracy_01",
-				--			"Melee Accuracy II", "force_sensitive_combat_prowess_melee_accuracy_02",
-				--			"Melee Accuracy III", "force_sensitive_combat_prowess_melee_accuracy_03",
-				--			"Melee Accuracy IV", "force_sensitive_combat_prowess_melee_accuracy_04"
-				--		},
-				--		"Melee Speed",
-				--		{
-				--			"Melee Speed I", "force_sensitive_combat_prowess_melee_speed_01",
-				--			"Melee Speed II", "force_sensitive_combat_prowess_melee_speed_02",
-				--			"Melee Speed III", "force_sensitive_combat_prowess_melee_speed_03",
-				--			"Melee Speed IV", "force_sensitive_combat_prowess_melee_speed_04"
-				--		},
-				--		"Master", "force_sensitive_combat_prowess_master"
-				--	},
-				--	"Crafting Mastery",
-				--	{
-				--		"Novice", "force_sensitive_crafting_mastery_novice",
-				--		"Experimentation",
-				--		{
-				--			"Experimentation I", "force_sensitive_crafting_mastery_experimentation_01",
-				--			"Experimentation II", "force_sensitive_crafting_mastery_experimentation_02",
-				--			"Experimentation III", "force_sensitive_crafting_mastery_experimentation_03",
-				--			"Experimentation IV", "force_sensitive_crafting_mastery_experimentation_04"
-				--		},
-				--		"Assembly",
-				--		{
-				--			"Assembly I", "force_sensitive_crafting_mastery_assembly_01",
-				--			"Assembly II", "force_sensitive_crafting_mastery_assembly_02",
-				--			"Assembly III", "force_sensitive_crafting_mastery_assembly_03",
-				--			"Assembly IV", "force_sensitive_crafting_mastery_assembly_04"
-				--		},
-				--		"Repair",
-				--		{
-				--			"Repair I", "force_sensitive_crafting_mastery_repair_01",
-				--			"Repair II", "force_sensitive_crafting_mastery_repair_02",
-				--			"Repair III", "force_sensitive_crafting_mastery_repair_03",
-				--			"Repair IV", "force_sensitive_crafting_mastery_repair_04"
-				--		},
-				--		"Technique",
-				--		{
-				--			"Technique I", "force_sensitive_crafting_mastery_technique_01",
-				--			"Technique II", "force_sensitive_crafting_mastery_technique_02",
-				--			"Technique III", "force_sensitive_crafting_mastery_technique_03",
-				--			"Technique IV", "force_sensitive_crafting_mastery_technique_04"
-				--		},
-				--		"Master", "force_sensitive_crafting_mastery_master"
-				--	},
-				--	"Enhanced Reflexes",
-				--	{
-				--		"Novice", "force_sensitive_enhanced_reflexes_novice",
-				--		"Ranged Defense",
-				--		{
-				--			"Ranged Defense I", "force_sensitive_enhanced_reflexes_ranged_defense_01",
-				--			"Ranged Defense II", "force_sensitive_enhanced_reflexes_ranged_defense_02",
-				--			"Ranged Defense III", "force_sensitive_enhanced_reflexes_ranged_defense_03",
-				--			"Ranged Defense IV", "force_sensitive_enhanced_reflexes_ranged_defense_04"
-				--		},
-				--		"Melee Defense",
-				--		{
-				--			"Melee Defense I", "force_sensitive_enhanced_reflexes_melee_defense_01",
-				--			"Melee Defense II", "force_sensitive_enhanced_reflexes_melee_defense_02",
-				--			"Melee Defense III", "force_sensitive_enhanced_reflexes_melee_defense_03",
-				--			"Melee Defense IV", "force_sensitive_enhanced_reflexes_melee_defense_04"
-				--		},
-				--		"Vehicle Control",
-				--		{
-				--			"Vehicle Control I", "force_sensitive_enhanced_reflexes_vehicle_control_01",
-				--			"Vehicle Control II", "force_sensitive_enhanced_reflexes_vehicle_control_02",
-				--			"Vehicle Control III", "force_sensitive_enhanced_reflexes_vehicle_control_03",
-				--			"Vehicle Control IV", "force_sensitive_enhanced_reflexes_vehicle_control_04"
-				--		},
-				--		"Survival",
-				--		{
-				--			"Survival I", "force_sensitive_enhanced_reflexes_survival_01",
-				--			"Survival II", "force_sensitive_enhanced_reflexes_survival_02",
-				--			"Survival III", "force_sensitive_enhanced_reflexes_survival_03",
-				--			"Survival IV", "force_sensitive_enhanced_reflexes_survival_04"
-				--		},
-				--		"Master", "force_sensitive_enhanced_reflexes_master"
-				--	},
-				--	"Heightened Senses",
-				--	{
-				--		"Novice", "force_sensitive_heightened_senses_novice",
-				--		"Healing",
-				--		{
-				--			"Healing I", "force_sensitive_heightened_senses_healing_01",
-				--			"Healing II", "force_sensitive_heightened_senses_healing_02",
-				--			"Healing III", "force_sensitive_heightened_senses_healing_03",
-				--			"Healing IV", "force_sensitive_heightened_senses_healing_04"
-				--		},
-				--		"Surveying",
-				--		{
-				--			"Surveying I", "force_sensitive_heightened_senses_surveying_01",
-				--			"Surveying II", "force_sensitive_heightened_senses_surveying_02",
-				--			"Surveying III", "force_sensitive_heightened_senses_surveying_03",
-				--			"Surveying IV", "force_sensitive_heightened_senses_surveying_04"
-				--		},
-				--		"Persuasion",
-				--		{
-				--			"Persuasion I", "force_sensitive_heightened_senses_persuasion_01",
-				--			"Persuasion II", "force_sensitive_heightened_senses_persuasion_02",
-				--			"Persuasion III", "force_sensitive_heightened_senses_persuasion_03",
-				--			"Persuasion IV", "force_sensitive_heightened_senses_persuasion_04"
-				--		},
-				--		"Luck",
-				--		{
-				--			"Luck I", "force_sensitive_heightened_senses_luck_01",
-				--			"Luck II", "force_sensitive_heightened_senses_luck_02",
-				--			"Luck III", "force_sensitive_heightened_senses_luck_03",
-				--			"Luck IV", "force_sensitive_heightened_senses_luck_04"
-				--		},
-				--		"Master", "force_sensitive_heightened_senses_master"
-				--	},
-				--},
+				"Force Sensitive",
+				{
+					"Combat Prowess",
+					{
+						"Novice", "force_sensitive_combat_prowess_novice",
+						"Ranged Accuracy",
+						{
+							"Ranged Accuracy I", "force_sensitive_combat_prowess_ranged_accuracy_01",
+							"Ranged Accuracy II", "force_sensitive_combat_prowess_ranged_accuracy_02",
+							"Ranged Accuracy III", "force_sensitive_combat_prowess_ranged_accuracy_03",
+							"Ranged Accuracy IV", "force_sensitive_combat_prowess_ranged_accuracy_04"
+						},
+						"Ranged Speed",
+						{
+							"Ranged Speed I", "force_sensitive_combat_prowess_ranged_speed_01",
+							"Ranged Speed II", "force_sensitive_combat_prowess_ranged_speed_02",
+							"Ranged Speed III", "force_sensitive_combat_prowess_ranged_speed_03",
+							"Ranged Speed IV", "force_sensitive_combat_prowess_ranged_speed_04"
+						},
+						"Melee Accuracy",
+						{
+							"Melee Accuracy I", "force_sensitive_combat_prowess_melee_accuracy_01",
+							"Melee Accuracy II", "force_sensitive_combat_prowess_melee_accuracy_02",
+							"Melee Accuracy III", "force_sensitive_combat_prowess_melee_accuracy_03",
+							"Melee Accuracy IV", "force_sensitive_combat_prowess_melee_accuracy_04"
+						},
+						"Melee Speed",
+						{
+							"Melee Speed I", "force_sensitive_combat_prowess_melee_speed_01",
+							"Melee Speed II", "force_sensitive_combat_prowess_melee_speed_02",
+							"Melee Speed III", "force_sensitive_combat_prowess_melee_speed_03",
+							"Melee Speed IV", "force_sensitive_combat_prowess_melee_speed_04"
+						},
+						"Master", "force_sensitive_combat_prowess_master"
+					},
+					"Crafting Mastery",
+					{
+						"Novice", "force_sensitive_crafting_mastery_novice",
+						"Experimentation",
+						{
+							"Experimentation I", "force_sensitive_crafting_mastery_experimentation_01",
+							"Experimentation II", "force_sensitive_crafting_mastery_experimentation_02",
+							"Experimentation III", "force_sensitive_crafting_mastery_experimentation_03",
+							"Experimentation IV", "force_sensitive_crafting_mastery_experimentation_04"
+						},
+						"Assembly",
+						{
+							"Assembly I", "force_sensitive_crafting_mastery_assembly_01",
+							"Assembly II", "force_sensitive_crafting_mastery_assembly_02",
+							"Assembly III", "force_sensitive_crafting_mastery_assembly_03",
+							"Assembly IV", "force_sensitive_crafting_mastery_assembly_04"
+						},
+						"Repair",
+						{
+							"Repair I", "force_sensitive_crafting_mastery_repair_01",
+							"Repair II", "force_sensitive_crafting_mastery_repair_02",
+							"Repair III", "force_sensitive_crafting_mastery_repair_03",
+							"Repair IV", "force_sensitive_crafting_mastery_repair_04"
+						},
+						"Technique",
+						{
+							"Technique I", "force_sensitive_crafting_mastery_technique_01",
+							"Technique II", "force_sensitive_crafting_mastery_technique_02",
+							"Technique III", "force_sensitive_crafting_mastery_technique_03",
+							"Technique IV", "force_sensitive_crafting_mastery_technique_04"
+						},
+						"Master", "force_sensitive_crafting_mastery_master"
+					},
+					"Enhanced Reflexes",
+					{
+						"Novice", "force_sensitive_enhanced_reflexes_novice",
+						"Ranged Defense",
+						{
+							"Ranged Defense I", "force_sensitive_enhanced_reflexes_ranged_defense_01",
+							"Ranged Defense II", "force_sensitive_enhanced_reflexes_ranged_defense_02",
+							"Ranged Defense III", "force_sensitive_enhanced_reflexes_ranged_defense_03",
+							"Ranged Defense IV", "force_sensitive_enhanced_reflexes_ranged_defense_04"
+						},
+						"Melee Defense",
+						{
+							"Melee Defense I", "force_sensitive_enhanced_reflexes_melee_defense_01",
+							"Melee Defense II", "force_sensitive_enhanced_reflexes_melee_defense_02",
+							"Melee Defense III", "force_sensitive_enhanced_reflexes_melee_defense_03",
+							"Melee Defense IV", "force_sensitive_enhanced_reflexes_melee_defense_04"
+						},
+						"Vehicle Control",
+						{
+							"Vehicle Control I", "force_sensitive_enhanced_reflexes_vehicle_control_01",
+							"Vehicle Control II", "force_sensitive_enhanced_reflexes_vehicle_control_02",
+							"Vehicle Control III", "force_sensitive_enhanced_reflexes_vehicle_control_03",
+							"Vehicle Control IV", "force_sensitive_enhanced_reflexes_vehicle_control_04"
+						},
+						"Survival",
+						{
+							"Survival I", "force_sensitive_enhanced_reflexes_survival_01",
+							"Survival II", "force_sensitive_enhanced_reflexes_survival_02",
+							"Survival III", "force_sensitive_enhanced_reflexes_survival_03",
+							"Survival IV", "force_sensitive_enhanced_reflexes_survival_04"
+						},
+						"Master", "force_sensitive_enhanced_reflexes_master"
+					},
+					"Heightened Senses",
+					{
+						"Novice", "force_sensitive_heightened_senses_novice",
+						"Healing",
+						{
+							"Healing I", "force_sensitive_heightened_senses_healing_01",
+							"Healing II", "force_sensitive_heightened_senses_healing_02",
+							"Healing III", "force_sensitive_heightened_senses_healing_03",
+							"Healing IV", "force_sensitive_heightened_senses_healing_04"
+						},
+						"Surveying",
+						{
+							"Surveying I", "force_sensitive_heightened_senses_surveying_01",
+							"Surveying II", "force_sensitive_heightened_senses_surveying_02",
+							"Surveying III", "force_sensitive_heightened_senses_surveying_03",
+							"Surveying IV", "force_sensitive_heightened_senses_surveying_04"
+						},
+						"Persuasion",
+						{
+							"Persuasion I", "force_sensitive_heightened_senses_persuasion_01",
+							"Persuasion II", "force_sensitive_heightened_senses_persuasion_02",
+							"Persuasion III", "force_sensitive_heightened_senses_persuasion_03",
+							"Persuasion IV", "force_sensitive_heightened_senses_persuasion_04"
+						},
+						"Luck",
+						{
+							"Luck I", "force_sensitive_heightened_senses_luck_01",
+							"Luck II", "force_sensitive_heightened_senses_luck_02",
+							"Luck III", "force_sensitive_heightened_senses_luck_03",
+							"Luck IV", "force_sensitive_heightened_senses_luck_04"
+						},
+						"Master", "force_sensitive_heightened_senses_master"
+					},
+				},
 				"Image Designer",
 				{
 					"Novice", "social_imagedesigner_novice",
@@ -2128,222 +2128,222 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 					},
 					"Master", "social_imagedesigner_master"
 				},
-				--"Jedi",
-				--{
-				--	"Rank",
-				--	{
-				--	"Jedi Dark Rank",
-				--	{
-				--		"Rank Member", "force_rank_dark_novice",
-				--		"Enforcer",
-				--		{
-				--			"Enforcer I", "force_rank_dark_rank_01",
-				--			"Enforcer II", "force_rank_dark_rank_02",
-				--			"Enforcer III", "force_rank_dark_rank_03",
-				--			"Enforcer IV", "force_rank_dark_rank_04"
-				--		},
-				--		"Templar",
-				--		{
-				--			"Templar I", "force_rank_dark_rank_05",
-				--			"Templar II", "force_rank_dark_rank_06",
-				--			"Templar III", "force_rank_dark_rank_07"
-				--		},
-				--		"Oppressor",
-				--		{
-				--			"Oppressor I", "force_rank_dark_rank_08",
-				--			"Oppressor II", "force_rank_dark_rank_09"
-				--		},
-				--	},
-				--
-				--	"Jedi Light Rank",
-				--	{
-				--		"Rank Member", "force_rank_dark_novice",
-				--		"Sentinel",
-				--		{
-				--			"Sentinel I", "force_rank_light_rank_01",
-				--			"Sentinel II", "force_rank_light_rank_02",
-				--			"Sentinel III", "force_rank_light_rank_03",
-				--			"Sentinel IV", "force_rank_light_rank_04"
-				--		},
-				--		"Consular",
-				--		{
-				--			"Consular I", "force_rank_light_rank_05",
-				--			"Consular II", "force_rank_light_rank_06",
-				--			"Consular III", "force_rank_light_rank_07"
-				--		},
-				--		"Arbiter",
-				--		{
-				--			"Arbiter I", "force_rank_light_rank_08",
-				--			"Arbiter II", "force_rank_light_rank_09"
-				--		},
-				--	},
-				--	},
-				--	"Light Saber",
-				--{
-				--	"Novice", "force_discipline_light_saber_novice",
-				--	"One Handed Light Saber",
-				--	{
-				--		"One Handed Light Saber I", "force_discipline_light_saber_one_hand_01",
-				--		"One Handed Light Saber II", "force_discipline_light_saber_one_hand_02",
-				--		"One Handed Light Saber III", "force_discipline_light_saber_one_hand_03",
-				--		"One Handed Light Saber IV", "force_discipline_light_saber_one_hand_04"
-				--	},
-				--	"Two Handed Light Saber",
-				--	{
-				--		"Two Handed Light Saber I", "force_discipline_light_saber_two_hand_01",
-				--		"Two Handed Light Saber II", "force_discipline_light_saber_two_hand_02",
-				--		"Two Handed Light Saber III", "force_discipline_light_saber_two_hand_03",
-				--		"Two Handed Light Saber IV", "force_discipline_light_saber_two_hand_04"
-				--	},
-				--	"Double Bladed Light Saber",
-				--	{
-				--		"Double Bladed Light Saber I", "force_discipline_light_saber_polearm_01",
-				--		"Double Bladed Light Saber II", "force_discipline_light_saber_polearm_02",
-				--		"Double Bladed Light Saber III", "force_discipline_light_saber_polearm_03",
-				--		"Double Bladed Light Saber IV", "force_discipline_light_saber_polearm_04"
-				--	},
-				--	"Light Saber Technique",
-				--	{
-				--		"Light Saber Technique I", "force_discipline_light_saber_technique_01",
-				--		"Light Saber Technique II", "force_discipline_light_saber_technique_02",
-				--		"Light Saber Technique III", "force_discipline_light_saber_technique_03",
-				--		"Light Saber Technique IV", "force_discipline_light_saber_technique_04"
-				--	},
-				--	"Master", "force_discipline_light_saber_master"
-				--},
-				--	"Force Powers",
-				--{
-				--	"Novice", "force_discipline_powers_novice",
-				--	"Force Lightning",
-				--	{
-				--		"Force Lightning I", "force_discipline_powers_lightning_01",
-				--		"Force Lightning II", "force_discipline_powers_lightning_02",
-				--		"Force Lightning III", "force_discipline_powers_lightning_03",
-				--		"Force Lightning IV", "force_discipline_powers_lightning_04"
-				--	},
-				--	"Force Subjugate",
-				--	{
-				--		"Force Subjugate I", "force_discipline_powers_mental_01",
-				--		"Force Subjugate II", "force_discipline_powers_mental_02",
-				--		"Force Subjugate III", "force_discipline_powers_mental_03",
-				--		"Force Subjugate IV", "force_discipline_powers_mental_04"
-				--	},
-				--	"Force Diminish",
-				--	{
-				--		"Force Diminish I", "force_discipline_powers_debuff_01",
-				--		"Force Diminish II", "force_discipline_powers_debuff_02",
-				--		"Force Diminish III", "force_discipline_powers_debuff_03",
-				--		"Force Diminish IV", "force_discipline_powers_debuff_04"
-				--	},
-				--	"Psychokineses",
-				--	{
-				--		"Psychokineses I", "force_discipline_powers_push_01",
-				--		"Psychokineses II", "force_discipline_powers_push_02",
-				--		"Psychokineses III", "force_discipline_powers_push_03",
-				--		"Psychokineses IV", "force_discipline_powers_push_04"
-				--	},
-				--	"Master", "force_discipline_powers_master"
-				--},
-				--	"Force Healing",
-				--{
-				--	"Novice", "force_discipline_healing_novice",
-				--	"Force Rejuvenation",
-				--	{
-				--		"Force Rejuvenation I", "force_discipline_healing_damage_01",
-				--		"Force Rejuvenation II", "force_discipline_healing_damage_02",
-				--		"Force Rejuvenation III", "force_discipline_healing_damage_03",
-				--		"Force Rejuvenation IV", "force_discipline_healing_damage_04"
-				--	},
-				--	"Force Restoration",
-				--	{
-				--		"Force Restoration I", "force_discipline_healing_wound_01",
-				--		"Force Restoration II", "force_discipline_healing_wound_02",
-				--		"Force Restoration III", "force_discipline_healing_wound_03",
-				--		"Force Restoration IV", "force_discipline_healing_wound_04"
-				--	},
-				--	"Force Assist",
-				--	{
-				--		"Force Assist I", "force_discipline_healing_other_01",
-				--		"Force Assist II", "force_discipline_healing_other_02",
-				--		"Force Assist III", "force_discipline_healing_other_03",
-				--		"Force Assist IV", "force_discipline_healing_other_04"
-				--	},
-				--	"Force Purification",
-				--	{
-				--		"Force Purification I", "force_discipline_healing_states_01",
-				--		"Force Purification II", "force_discipline_healing_states_02",
-				--		"Force Purification III", "force_discipline_healing_states_03",
-				--		"Force Purification IV", "force_discipline_healing_states_04"
-				--	},
-				--	"Master", "force_discipline_healing_master"
-				--},
-				--	"Force Enhancement",
-				--{
-				--	"Novice", "force_discipline_enhancements_novice",
-				--	"Force Celerity",
-				--	{
-				--		"Force Celerity I", "force_discipline_enhancements_movement_01",
-				--		"Force Celerity II", "force_discipline_enhancements_movement_02",
-				--		"Force Celerity III", "force_discipline_enhancements_movement_03",
-				--		"Force Celerity IV", "force_discipline_enhancements_movement_04"
-				--	},
-				--	"Force Protection",
-				--	{
-				--		"Force Protection I", "force_discipline_enhancements_protection_01",
-				--		"Force Protection II", "force_discipline_enhancements_protection_02",
-				--		"Force Protection III", "force_discipline_enhancements_protection_03",
-				--		"Force Protection IV", "force_discipline_enhancements_protection_04"
-				--	},
-				--	"Force Resistance",
-				--	{
-				--		"Force Resistance I", "force_discipline_enhancements_resistance_01",
-				--		"Force Resistance II", "force_discipline_enhancements_resistance_02",
-				--		"Force Resistance III", "force_discipline_enhancements_resistance_03",
-				--		"Force Resistance IV", "force_discipline_enhancements_resistance_04"
-				--	},
-				--	"Force Synergy",
-				--	{
-				--		"Force Synergy I", "force_discipline_enhancements_synergy_01",
-				--		"Force Synergy II", "force_discipline_enhancements_synergy_02",
-				--		"Force Synergy III", "force_discipline_enhancements_synergy_03",
-				--		"Force Synergy IV", "force_discipline_enhancements_synergy_04"
-				--	},
-				--	"Master", "force_discipline_enhancements_master"
-				--},
-				--"Force Defense",
-				--{
-				--	"Novice", "force_discipline_defender_novice",
-				--	"Force Melee Defense",
-				--	{
-				--		"Force Melee Defense I", "force_discipline_defender_melee_defense_01",
-				--		"Force Melee Defense II", "force_discipline_defender_melee_defense_02",
-				--		"Force Melee Defense III", "force_discipline_defender_melee_defense_03",
-				--		"Force Melee Defense IV", "force_discipline_defender_melee_defense_04"
-				--	},
-				--	"Force Ranged Defense",
-				--	{
-				--		"Force Ranged Defense I", "force_discipline_defender_ranged_defense_01",
-				--		"Force Ranged Defense II", "force_discipline_defender_ranged_defense_02",
-				--		"Force Ranged Defense III", "force_discipline_defender_ranged_defense_03",
-				--		"Force Ranged Defense IV", "force_discipline_defender_ranged_defense_04"
-				--	},
-				--	"Force Defense",
-				--	{
-				--		"Force Defense I", "force_discipline_defender_force_defense_01",
-				--		"Force Defense II", "force_discipline_defender_force_defense_02",
-				--		"Force Defense III", "force_discipline_defender_force_defense_03",
-				--		"Force Defense IV", "force_discipline_defender_force_defense_04"
-				--	},
-				--	"Preternatural Defense",
-				--	{
-				--		"Preternatural Defense I", "force_discipline_defender_preternatural_defense_01",
-				--		"Preternatural Defense II", "force_discipline_defender_preternatural_defense_02",
-				--		"Preternatural Defense III", "force_discipline_defender_preternatural_defense_03",
-				--		"Preternatural Defense IV", "force_discipline_defender_preternatural_defense_04"
-				--	},
-				--	"Master", "force_discipline_defender_master"
-				--},
-				--},
+				"Jedi",
+				{
+					"Rank",
+					{
+					"Jedi Dark Rank",
+					{
+						"Rank Member", "force_rank_dark_novice",
+						"Enforcer",
+						{
+							"Enforcer I", "force_rank_dark_rank_01",
+							"Enforcer II", "force_rank_dark_rank_02",
+							"Enforcer III", "force_rank_dark_rank_03",
+							"Enforcer IV", "force_rank_dark_rank_04"
+						},
+						"Templar",
+						{
+							"Templar I", "force_rank_dark_rank_05",
+							"Templar II", "force_rank_dark_rank_06",
+							"Templar III", "force_rank_dark_rank_07"
+						},
+						"Oppressor",
+						{
+							"Oppressor I", "force_rank_dark_rank_08",
+							"Oppressor II", "force_rank_dark_rank_09"
+						},
+					},
+				
+					"Jedi Light Rank",
+					{
+						"Rank Member", "force_rank_dark_novice",
+						"Sentinel",
+						{
+							"Sentinel I", "force_rank_light_rank_01",
+							"Sentinel II", "force_rank_light_rank_02",
+							"Sentinel III", "force_rank_light_rank_03",
+							"Sentinel IV", "force_rank_light_rank_04"
+						},
+						"Consular",
+						{
+							"Consular I", "force_rank_light_rank_05",
+							"Consular II", "force_rank_light_rank_06",
+							"Consular III", "force_rank_light_rank_07"
+						},
+						"Arbiter",
+						{
+							"Arbiter I", "force_rank_light_rank_08",
+							"Arbiter II", "force_rank_light_rank_09"
+						},
+					},
+					},
+					"Light Saber",
+				{
+					"Novice", "force_discipline_light_saber_novice",
+					"One Handed Light Saber",
+					{
+						"One Handed Light Saber I", "force_discipline_light_saber_one_hand_01",
+						"One Handed Light Saber II", "force_discipline_light_saber_one_hand_02",
+						"One Handed Light Saber III", "force_discipline_light_saber_one_hand_03",
+						"One Handed Light Saber IV", "force_discipline_light_saber_one_hand_04"
+					},
+					"Two Handed Light Saber",
+					{
+						"Two Handed Light Saber I", "force_discipline_light_saber_two_hand_01",
+						"Two Handed Light Saber II", "force_discipline_light_saber_two_hand_02",
+						"Two Handed Light Saber III", "force_discipline_light_saber_two_hand_03",
+						"Two Handed Light Saber IV", "force_discipline_light_saber_two_hand_04"
+					},
+					"Double Bladed Light Saber",
+					{
+						"Double Bladed Light Saber I", "force_discipline_light_saber_polearm_01",
+						"Double Bladed Light Saber II", "force_discipline_light_saber_polearm_02",
+						"Double Bladed Light Saber III", "force_discipline_light_saber_polearm_03",
+						"Double Bladed Light Saber IV", "force_discipline_light_saber_polearm_04"
+					},
+					"Light Saber Technique",
+					{
+						"Light Saber Technique I", "force_discipline_light_saber_technique_01",
+						"Light Saber Technique II", "force_discipline_light_saber_technique_02",
+						"Light Saber Technique III", "force_discipline_light_saber_technique_03",
+						"Light Saber Technique IV", "force_discipline_light_saber_technique_04"
+					},
+					"Master", "force_discipline_light_saber_master"
+				},
+					"Force Powers",
+				{
+					"Novice", "force_discipline_powers_novice",
+					"Force Lightning",
+					{
+						"Force Lightning I", "force_discipline_powers_lightning_01",
+						"Force Lightning II", "force_discipline_powers_lightning_02",
+						"Force Lightning III", "force_discipline_powers_lightning_03",
+						"Force Lightning IV", "force_discipline_powers_lightning_04"
+					},
+					"Force Subjugate",
+					{
+						"Force Subjugate I", "force_discipline_powers_mental_01",
+						"Force Subjugate II", "force_discipline_powers_mental_02",
+						"Force Subjugate III", "force_discipline_powers_mental_03",
+						"Force Subjugate IV", "force_discipline_powers_mental_04"
+					},
+					"Force Diminish",
+					{
+						"Force Diminish I", "force_discipline_powers_debuff_01",
+						"Force Diminish II", "force_discipline_powers_debuff_02",
+						"Force Diminish III", "force_discipline_powers_debuff_03",
+						"Force Diminish IV", "force_discipline_powers_debuff_04"
+					},
+					"Psychokineses",
+					{
+						"Psychokineses I", "force_discipline_powers_push_01",
+						"Psychokineses II", "force_discipline_powers_push_02",
+						"Psychokineses III", "force_discipline_powers_push_03",
+						"Psychokineses IV", "force_discipline_powers_push_04"
+					},
+					"Master", "force_discipline_powers_master"
+				},
+					"Force Healing",
+				{
+					"Novice", "force_discipline_healing_novice",
+					"Force Rejuvenation",
+					{
+						"Force Rejuvenation I", "force_discipline_healing_damage_01",
+						"Force Rejuvenation II", "force_discipline_healing_damage_02",
+						"Force Rejuvenation III", "force_discipline_healing_damage_03",
+						"Force Rejuvenation IV", "force_discipline_healing_damage_04"
+					},
+					"Force Restoration",
+					{
+						"Force Restoration I", "force_discipline_healing_wound_01",
+						"Force Restoration II", "force_discipline_healing_wound_02",
+						"Force Restoration III", "force_discipline_healing_wound_03",
+						"Force Restoration IV", "force_discipline_healing_wound_04"
+					},
+					"Force Assist",
+					{
+						"Force Assist I", "force_discipline_healing_other_01",
+						"Force Assist II", "force_discipline_healing_other_02",
+						"Force Assist III", "force_discipline_healing_other_03",
+						"Force Assist IV", "force_discipline_healing_other_04"
+					},
+					"Force Purification",
+					{
+						"Force Purification I", "force_discipline_healing_states_01",
+						"Force Purification II", "force_discipline_healing_states_02",
+						"Force Purification III", "force_discipline_healing_states_03",
+						"Force Purification IV", "force_discipline_healing_states_04"
+					},
+					"Master", "force_discipline_healing_master"
+				},
+					"Force Enhancement",
+				{
+					"Novice", "force_discipline_enhancements_novice",
+					"Force Celerity",
+					{
+						"Force Celerity I", "force_discipline_enhancements_movement_01",
+						"Force Celerity II", "force_discipline_enhancements_movement_02",
+						"Force Celerity III", "force_discipline_enhancements_movement_03",
+						"Force Celerity IV", "force_discipline_enhancements_movement_04"
+					},
+					"Force Protection",
+					{
+						"Force Protection I", "force_discipline_enhancements_protection_01",
+						"Force Protection II", "force_discipline_enhancements_protection_02",
+						"Force Protection III", "force_discipline_enhancements_protection_03",
+						"Force Protection IV", "force_discipline_enhancements_protection_04"
+					},
+					"Force Resistance",
+					{
+						"Force Resistance I", "force_discipline_enhancements_resistance_01",
+						"Force Resistance II", "force_discipline_enhancements_resistance_02",
+						"Force Resistance III", "force_discipline_enhancements_resistance_03",
+						"Force Resistance IV", "force_discipline_enhancements_resistance_04"
+					},
+					"Force Synergy",
+					{
+						"Force Synergy I", "force_discipline_enhancements_synergy_01",
+						"Force Synergy II", "force_discipline_enhancements_synergy_02",
+						"Force Synergy III", "force_discipline_enhancements_synergy_03",
+						"Force Synergy IV", "force_discipline_enhancements_synergy_04"
+					},
+					"Master", "force_discipline_enhancements_master"
+				},
+				"Force Defense",
+				{
+					"Novice", "force_discipline_defender_novice",
+					"Force Melee Defense",
+					{
+						"Force Melee Defense I", "force_discipline_defender_melee_defense_01",
+						"Force Melee Defense II", "force_discipline_defender_melee_defense_02",
+						"Force Melee Defense III", "force_discipline_defender_melee_defense_03",
+						"Force Melee Defense IV", "force_discipline_defender_melee_defense_04"
+					},
+					"Force Ranged Defense",
+					{
+						"Force Ranged Defense I", "force_discipline_defender_ranged_defense_01",
+						"Force Ranged Defense II", "force_discipline_defender_ranged_defense_02",
+						"Force Ranged Defense III", "force_discipline_defender_ranged_defense_03",
+						"Force Ranged Defense IV", "force_discipline_defender_ranged_defense_04"
+					},
+					"Force Defense",
+					{
+						"Force Defense I", "force_discipline_defender_force_defense_01",
+						"Force Defense II", "force_discipline_defender_force_defense_02",
+						"Force Defense III", "force_discipline_defender_force_defense_03",
+						"Force Defense IV", "force_discipline_defender_force_defense_04"
+					},
+					"Preternatural Defense",
+					{
+						"Preternatural Defense I", "force_discipline_defender_preternatural_defense_01",
+						"Preternatural Defense II", "force_discipline_defender_preternatural_defense_02",
+						"Preternatural Defense III", "force_discipline_defender_preternatural_defense_03",
+						"Preternatural Defense IV", "force_discipline_defender_preternatural_defense_04"
+					},
+					"Master", "force_discipline_defender_master"
+				},
+				},
 				"Marksman",
 				{
 					"Novice", "combat_marksman_novice",
@@ -3010,7 +3010,7 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 			"Enhance Character", "enhance_character",
 			"Jedi",
 			{
-				--"Unlock Jedi Initiate", "unlock_jedi_initiate",
+				"Unlock Jedi Initiate", "unlock_jedi_initiate",
 				"Unlock FRS Light Side", "frs_light_side",
 				"Unlock FRS Dark Side", "frs_dark_side"
 			},
@@ -3043,11 +3043,11 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 				"Color Crystal", "color_crystals",
 				"Krayt Pearl", "krayt_pearls"
 			},
-			--"Attachments",
-			--{
-			--	"Armor Attachment", "object/tangible/gem/armor.iff",
-			--	"Clothing Attachment", "object/tangible/gem/clothing.iff",
-			--},
+			"Attachments",
+			{
+				"Armor Attachment", "object/tangible/gem/armor.iff",
+				"Clothing Attachment", "object/tangible/gem/clothing.iff",
+			},
 			"Armor",
 			{
 				"Components",
@@ -3130,10 +3130,10 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 						"Kashyyykian Hunting Leggings", "object/tangible/wearables/armor/kashyyykian_hunting/armor_kashyyykian_hunting_leggings.iff"
 					}
 				},
-			--	"Singing Mountain Clan Armor",
-			--	{
-			--		"Singing Mountain Clan Bicep", "object/tangible/wearables/armor/bone/armor_smc_s01_bicep_l.iff"
-			--	}
+				"Singing Mountain Clan Armor",
+				{
+					"Singing Mountain Clan Bicep", "object/tangible/wearables/armor/bone/armor_smc_s01_bicep_l.iff"
+				}
 			},
 			"Bio-Engineer Testing",
 			{
@@ -3281,51 +3281,51 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 			--"Vayerbok", "object/tangible/food/crafted/drink_vayerbok.iff",
 			--"Veronian Berry Wine", "object/tangible/food/crafted/drink_veronian_berry_wine.iff"
 			},
-			--"Foraged Food",
-			--{
-			--"Jar of Berries", "object/tangible/food/foraged/edible_jar_berries.iff",
-			--"Jar of Bugs", "object/tangible/food/foraged/edible_jar_bugs.iff",
-			--"Jar of Fungus", "object/tangible/food/foraged/edible_jar_fungus.iff",
-			--"Jar of Funk", "object/tangible/food/foraged/edible_jar_funk.iff",
-			--"Jar of Livers", "object/tangible/food/foraged/edible_jar_livers.iff",
-			--"Fruit Style 1", "object/tangible/food/foraged/foraged_fruit_s1.iff",
-			--"Fruit Style 2", "object/tangible/food/foraged/foraged_fruit_s2.iff",
-			--"Fruit Style 3", "object/tangible/food/foraged/foraged_fruit_s3.iff",
-			--"Fruit Style 4", "object/tangible/food/foraged/foraged_fruit_s4.iff",
-			--"Fruit Style 5", "object/tangible/food/foraged/foraged_fruit_s5.iff",
-			--"Vegetable Style 2", "object/tangible/food/foraged/foraged_vegetable_s2.iff",
-			--"Vegetable Style 3", "object/tangible/food/foraged/foraged_vegetable_s3.iff",
-			--"Vegetable Style 4", "object/tangible/food/foraged/foraged_vegetable_s4.iff",
-			--"Vegetable Style 5", "object/tangible/food/foraged/foraged_vegetable_s5.iff"
-			--},
-			--"Generic Food",
-			--{
-			--"Bread loaf", "object/tangible/food/bread_loaf_full_s1.iff",
-			--"Fruit Melon", "object/tangible/food/fruit_melon.iff",
-			--"Meat Kabob", "object/tangible/food/meat_kabob.iff",
-			--"Meat Object", "object/tangible/food/meat_object.iff",
-			--"Nectar", "object/tangible/food/nectar.iff"
-			--},
-			--"Spice",
-			--{
-			--"Booster Blue", "object/tangible/food/spice/spice_booster_blue.iff",
-			--"Crash N Burn", "object/tangible/food/spice/spice_brash_n_burn.iff",
-			--"Droid Lube", "object/tangible/food/spice/spice_droid_lube.iff",
-			--"Giggledust", "object/tangible/food/spice/spice_giggledust.iff",
-			--"Grey Gabaki", "object/tangible/food/spice/spice_grey_gabaki.iff",
-			--"Gunjack", "object/tangible/food/spice/spice_gunjack.iff",
-			--"Kliknik Boost", "object/tangible/food/spice/spice_kliknik_boost.iff",
-			--"Kwi Boost", "object/tangible/food/spice/spice_kwi_boost.iff",
-			--"Muon Gold", "object/tangible/food/spice/spice_muon_gold.iff",
-			--"Neutron Pixie", "object/tangible/food/spice/spice_neutron_pixey.iff",
-			--"Pyrepenol", "object/tangible/food/spice/spice_pyrepenol.iff",
-			--"Scramjet", "object/tangible/food/spice/spice_Scramjet.iff",
-			--"Sedative H4B", "object/tangible/food/spice/spice_sedative_h4b.iff",
-			--"Shadowpaw", "object/tangible/food/spice/spice_shadowpaw.iff",
-			--"Sweetblossom", "object/tangible/food/spice/spice_sweetblossom.iff",
-			--"Thruster Head", "object/tangible/food/spice/spice_thruster_head.iff",
-			--"Yarrock", "object/tangible/food/spice/spice_yarrock.iff"
-			--}
+			"Foraged Food",
+			{
+			"Jar of Berries", "object/tangible/food/foraged/edible_jar_berries.iff",
+			"Jar of Bugs", "object/tangible/food/foraged/edible_jar_bugs.iff",
+			"Jar of Fungus", "object/tangible/food/foraged/edible_jar_fungus.iff",
+			"Jar of Funk", "object/tangible/food/foraged/edible_jar_funk.iff",
+			"Jar of Livers", "object/tangible/food/foraged/edible_jar_livers.iff",
+			"Fruit Style 1", "object/tangible/food/foraged/foraged_fruit_s1.iff",
+			"Fruit Style 2", "object/tangible/food/foraged/foraged_fruit_s2.iff",
+			"Fruit Style 3", "object/tangible/food/foraged/foraged_fruit_s3.iff",
+			"Fruit Style 4", "object/tangible/food/foraged/foraged_fruit_s4.iff",
+			"Fruit Style 5", "object/tangible/food/foraged/foraged_fruit_s5.iff",
+			"Vegetable Style 2", "object/tangible/food/foraged/foraged_vegetable_s2.iff",
+			"Vegetable Style 3", "object/tangible/food/foraged/foraged_vegetable_s3.iff",
+			"Vegetable Style 4", "object/tangible/food/foraged/foraged_vegetable_s4.iff",
+			"Vegetable Style 5", "object/tangible/food/foraged/foraged_vegetable_s5.iff"
+			},
+			"Generic Food",
+			{
+			"Bread loaf", "object/tangible/food/bread_loaf_full_s1.iff",
+			"Fruit Melon", "object/tangible/food/fruit_melon.iff",
+			"Meat Kabob", "object/tangible/food/meat_kabob.iff",
+			"Meat Object", "object/tangible/food/meat_object.iff",
+			"Nectar", "object/tangible/food/nectar.iff"
+			},
+			"Spice",
+			{
+			"Booster Blue", "object/tangible/food/spice/spice_booster_blue.iff",
+			"Crash N Burn", "object/tangible/food/spice/spice_brash_n_burn.iff",
+			"Droid Lube", "object/tangible/food/spice/spice_droid_lube.iff",
+			"Giggledust", "object/tangible/food/spice/spice_giggledust.iff",
+			"Grey Gabaki", "object/tangible/food/spice/spice_grey_gabaki.iff",
+			"Gunjack", "object/tangible/food/spice/spice_gunjack.iff",
+			"Kliknik Boost", "object/tangible/food/spice/spice_kliknik_boost.iff",
+			"Kwi Boost", "object/tangible/food/spice/spice_kwi_boost.iff",
+			"Muon Gold", "object/tangible/food/spice/spice_muon_gold.iff",
+			"Neutron Pixie", "object/tangible/food/spice/spice_neutron_pixey.iff",
+			"Pyrepenol", "object/tangible/food/spice/spice_pyrepenol.iff",
+			"Scramjet", "object/tangible/food/spice/spice_Scramjet.iff",
+			"Sedative H4B", "object/tangible/food/spice/spice_sedative_h4b.iff",
+			"Shadowpaw", "object/tangible/food/spice/spice_shadowpaw.iff",
+			"Sweetblossom", "object/tangible/food/spice/spice_sweetblossom.iff",
+			"Thruster Head", "object/tangible/food/spice/spice_thruster_head.iff",
+			"Yarrock", "object/tangible/food/spice/spice_yarrock.iff"
+			}
 			},
 			"Deeds",
 			{
@@ -3333,12 +3333,12 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 				"Vehicle Deeds",
 				{
 					"Swoop", "object/tangible/deed/vehicle_deed/speederbike_swoop_deed.iff",
-					--"Jetpack", "object/tangible/deed/vehicle_deed/jetpack_deed.iff",
+					"Jetpack", "object/tangible/deed/vehicle_deed/jetpack_deed.iff",
 					"Speederbike", "object/tangible/deed/vehicle_deed/speederbike_deed.iff",
-				--"Speederbike Flash", "object/tangible/deed/vehicle_deed/speederbike_flash_deed.iff",
-				--"Landspeeder av21", "object/tangible/deed/vehicle_deed/landspeeder_av21_deed.iff",
-				--"Landspeeder x31", "object/tangible/deed/vehicle_deed/landspeeder_x31_deed.iff",
-				--"Landspeeder x34", "object/tangible/deed/vehicle_deed/landspeeder_x34_deed.iff"
+					"Speederbike Flash", "object/tangible/deed/vehicle_deed/speederbike_flash_deed.iff",
+					"Landspeeder av21", "object/tangible/deed/vehicle_deed/landspeeder_av21_deed.iff",
+					"Landspeeder x31", "object/tangible/deed/vehicle_deed/landspeeder_x31_deed.iff",
+					"Landspeeder x34", "object/tangible/deed/vehicle_deed/landspeeder_x34_deed.iff"
 				},
 				"Structure Deeds",
 				{
@@ -4124,19 +4124,19 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 					"Street Lamp (Style 4) Red", "object/tangible/furniture/city/streetlamp_med_red_02.iff"
 				},
 			},
-			--"Intruments",
-			--{
-			--"Bandfill", "object/tangible/instrument/bandfill.iff",
-			--"Fanfar", "object/tangible/instrument/fanfar.iff",
-			--"Fizz", "object/tangible/instrument/fizz.iff",
-			--"Flute Droopy", "object/tangible/instrument/flute_droopy.iff",
-			--"Kloo Horn", "object/tangible/instrument/kloo_horn.iff",
-			--"Mandoviol", "object/tangible/instrument/mandoviol.iff",
-			--"Nalargon", "object/tangible/instrument/nalargon.iff",
-			--"Ommni Box", "object/tangible/instrument/ommni_box.iff",
-			--"Slitherhorn", "object/tangible/instrument/slitherhorn.iff",
-			--"Traz", "object/tangible/instrument/traz.iff"
-			--},
+			-- "Intruments",
+			-- {
+			-- 	"Bandfill", "object/tangible/instrument/bandfill.iff",
+			-- 	"Fanfar", "object/tangible/instrument/fanfar.iff",
+			-- 	"Fizz", "object/tangible/instrument/fizz.iff",
+			-- 	"Flute Droopy", "object/tangible/instrument/flute_droopy.iff",
+			-- 	"Kloo Horn", "object/tangible/instrument/kloo_horn.iff",
+			-- 	"Mandoviol", "object/tangible/instrument/mandoviol.iff",
+			-- 	"Nalargon", "object/tangible/instrument/nalargon.iff",
+			-- 	"Ommni Box", "object/tangible/instrument/ommni_box.iff",
+			-- 	"Slitherhorn", "object/tangible/instrument/slitherhorn.iff",
+			-- 	"Traz", "object/tangible/instrument/traz.iff"
+			-- },
 			"Pharmaceutical",
 			{
 				"StimPack A", "object/tangible/medicine/crafted/crafted_stimpack_sm_s1_a.iff",
@@ -4171,46 +4171,46 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 				"Medpack Stunned", "object/tangible/medicine/crafted/medpack_stunned_a.iff",
 				"Revive Pack", "object/tangible/medicine/medpack_revive.iff"
 			},
-			--"Scout Equipment",
-			--{
-			--"Camokit",
-			--{
-			--"Corellia", "object/tangible/scout/camokit/camokit_corellia.iff",
-			--"Dantooine", "object/tangible/scout/camokit/camokit_dantooine.iff",
-			--"Dathomir", "object/tangible/scout/camokit/camokit_dathomir.iff",
-			--"Endor", "object/tangible/scout/camokit/camokit_endor.iff",
-			--"Lok", "object/tangible/scout/camokit/camokit_lok.iff",
-			--"Naboo", "object/tangible/scout/camokit/camokit_naboo.iff",
-			--"Rori", "object/tangible/scout/camokit/camokit_rori.iff",
-			--"Talus", "object/tangible/scout/camokit/camokit_talus.iff",
-			--"Tatooine", "object/tangible/scout/camokit/camokit_tatooine.iff",
-			--"Yavin", "object/tangible/scout/camokit/camokit_yavin.iff"
-			--},
-			--"Camps",
-			--{
-			--"Basic", "object/tangible/scout/camp/camp_basic.iff",
-			--"Elite", "object/tangible/scout/camp/camp_elite.iff",
-			--"Improved", "object/tangible/scout/camp/camp_improved.iff",
-			--"Luxury", "object/tangible/scout/camp/camp_luxury.iff",
-			--"Multi", "object/tangible/scout/camp/camp_multi.iff",
-			--"Quality", "object/tangible/scout/camp/camp_quality.iff"
-			--},
-			--"Traps",
-			--{
-			--"Drowsy Dart", "object/tangible/scout/trap/trap_drowsy_dart.iff",
-			--"Enraging Spur", "object/tangible/scout/trap/trap_enraging_spur.iff",
-			--"Flash Bomb", "object/tangible/scout/trap/trap_flash_bomb.iff",
-			--"Melee Defence", "object/tangible/scout/trap/trap_melee_def_1.iff",
-			--"Melee Ranged defence", "object/tangible/scout/trap/trap_melee_ranged_def_1.iff",
-			--"Noise Maker", "object/tangible/scout/trap/trap_noise_maker.iff",
-			--"Ranged Defence", "object/tangible/scout/trap/trap_ranged_def_1.iff",
-			--"Ranged Speed", "object/tangible/scout/trap/trap_ranged_speed_1.iff",
-			--"Sonic Pulse", "object/tangible/scout/trap/trap_sonic_pulse.iff",
-			--"State Defence", "object/tangible/scout/trap/trap_state_def_1.iff",
-			--"Tranq Dart", "object/tangible/scout/trap/trap_tranq_dart.iff",
-			--"Webber", "object/tangible/scout/trap/trap_webber.iff"
-			--}
-			--}
+			-- "Scout Equipment",
+			-- {
+			-- 	"Camokit",
+			-- 	{
+			-- 		"Corellia", "object/tangible/scout/camokit/camokit_corellia.iff",
+			-- 		"Dantooine", "object/tangible/scout/camokit/camokit_dantooine.iff",
+			-- 		"Dathomir", "object/tangible/scout/camokit/camokit_dathomir.iff",
+			-- 		"Endor", "object/tangible/scout/camokit/camokit_endor.iff",
+			-- 		"Lok", "object/tangible/scout/camokit/camokit_lok.iff",
+			-- 		"Naboo", "object/tangible/scout/camokit/camokit_naboo.iff",
+			-- 		"Rori", "object/tangible/scout/camokit/camokit_rori.iff",
+			-- 		"Talus", "object/tangible/scout/camokit/camokit_talus.iff",
+			-- 		"Tatooine", "object/tangible/scout/camokit/camokit_tatooine.iff",
+			-- 		"Yavin", "object/tangible/scout/camokit/camokit_yavin.iff"
+			-- 	},
+			-- 	"Camps",
+			-- 	{
+			-- 		"Basic", "object/tangible/scout/camp/camp_basic.iff",
+			-- 		"Elite", "object/tangible/scout/camp/camp_elite.iff",
+			-- 		"Improved", "object/tangible/scout/camp/camp_improved.iff",
+			-- 		"Luxury", "object/tangible/scout/camp/camp_luxury.iff",
+			-- 		"Multi", "object/tangible/scout/camp/camp_multi.iff",
+			-- 		"Quality", "object/tangible/scout/camp/camp_quality.iff"
+			-- 	},
+			-- 	"Traps",
+			-- 	{
+			-- 		"Drowsy Dart", "object/tangible/scout/trap/trap_drowsy_dart.iff",
+			-- 		"Enraging Spur", "object/tangible/scout/trap/trap_enraging_spur.iff",
+			-- 		"Flash Bomb", "object/tangible/scout/trap/trap_flash_bomb.iff",
+			-- 		"Melee Defence", "object/tangible/scout/trap/trap_melee_def_1.iff",
+			-- 		"Melee Ranged defence", "object/tangible/scout/trap/trap_melee_ranged_def_1.iff",
+			-- 		"Noise Maker", "object/tangible/scout/trap/trap_noise_maker.iff",
+			-- 		"Ranged Defence", "object/tangible/scout/trap/trap_ranged_def_1.iff",
+			-- 		"Ranged Speed", "object/tangible/scout/trap/trap_ranged_speed_1.iff",
+			-- 		"Sonic Pulse", "object/tangible/scout/trap/trap_sonic_pulse.iff",
+			-- 		"State Defence", "object/tangible/scout/trap/trap_state_def_1.iff",
+			-- 		"Tranq Dart", "object/tangible/scout/trap/trap_tranq_dart.iff",
+			-- 		"Webber", "object/tangible/scout/trap/trap_webber.iff"
+			-- 	}
+			-- }
 			"Tools",
 			{
 				"Crafting Tools",
@@ -4234,175 +4234,175 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 				"Survey Tools",
 				{
 					"Gas Survey Tool", "object/tangible/survey_tool/survey_tool_gas.iff",
-					--"Inorganic Survey Tool", "oobject/tangible/survey_tool/survey_tool_inorganic.iff",
+					"Inorganic Survey Tool", "oobject/tangible/survey_tool/survey_tool_inorganic.iff",
 					"Chemical Survey Tool", "object/tangible/survey_tool/survey_tool_liquid.iff",
 					"Flora Survey Tool", "object/tangible/survey_tool/survey_tool_lumber.iff",
 					"Mineral Survey Tool", "object/tangible/survey_tool/survey_tool_mineral.iff",
 					"Moisture Survey Tool", "object/tangible/survey_tool/survey_tool_moisture.iff",
-					--"Organic Survey Tool", "object/tangible/survey_tool/survey_tool_organic.iff",
+					"Organic Survey Tool", "object/tangible/survey_tool/survey_tool_organic.iff",
 					"Solar Survey Tool", "object/tangible/survey_tool/survey_tool_solar.iff",
 					"Wind Survey Tool", "object/tangible/survey_tool/survey_tool_wind.iff"
 				}
-			--"Repair Tools",
-			--{
-			--"Armor Repair", "object/tangible/crafting/station/armor_repair.iff",
-			--"Clothing Repair", "object/tangible/crafting/station/clothing_repair.iff",
-			--"Droid Repair", "object/tangible/crafting/station/droid_repair.iff",
-			--"Structure Repair", "object/tangible/crafting/station/structure_repair.iff",
-			--"Weapon Repair", "object/tangible/crafting/station/weapon_repair.iff"
-			--}
+			-- "Repair Tools",
+			-- {
+			-- 	"Armor Repair", "object/tangible/crafting/station/armor_repair.iff",
+			-- 	"Clothing Repair", "object/tangible/crafting/station/clothing_repair.iff",
+			-- 	"Droid Repair", "object/tangible/crafting/station/droid_repair.iff",
+			-- 	"Structure Repair", "object/tangible/crafting/station/structure_repair.iff",
+			-- 	"Weapon Repair", "object/tangible/crafting/station/weapon_repair.iff"
+			-- }
 			},
 			"Weapons",
 			{
 				"Carbines",
 				{
-					--		"CDEF Carbine", "object/weapon/ranged/carbine/carbine_cdef.iff",
-					--		"Corsec CDEF Carbine", "object/weapon/ranged/carbine/carbine_cdef_corsec.iff",
-					--		"DH17 Carbine", "object/weapon/ranged/carbine/carbine_dh17.iff",
-					--		"DH17 Carbine (black)", "object/weapon/ranged/carbine/carbine_dh17_black.iff",
-					--		"DH17 Short Carbine", "object/weapon/ranged/carbine/carbine_dh17_snubnose.iff",
+					"CDEF Carbine", "object/weapon/ranged/carbine/carbine_cdef.iff",
+					"Corsec CDEF Carbine", "object/weapon/ranged/carbine/carbine_cdef_corsec.iff",
+					"DH17 Carbine", "object/weapon/ranged/carbine/carbine_dh17.iff",
+					"DH17 Carbine (black)", "object/weapon/ranged/carbine/carbine_dh17_black.iff",
+					"DH17 Short Carbine", "object/weapon/ranged/carbine/carbine_dh17_snubnose.iff",
 					"DXR6 Carbine", "object/weapon/ranged/carbine/carbine_dxr6.iff",
-					--		"E11 Carbine", "object/weapon/ranged/carbine/carbine_e11.iff",
-					--		"Enhanced E11 Carbine", "object/weapon/ranged/carbine/carbine_e11_quest.iff",
-					--		"Lithitanium Carbine", "object/weapon/ranged/carbine/carbine_e11_victor_quest.iff",
-					--		"EE3 Carbine", "object/weapon/ranged/carbine/carbine_ee3.iff",
-					--		"Elite Carbine", "object/weapon/ranged/carbine/carbine_elite.iff",
+					"E11 Carbine", "object/weapon/ranged/carbine/carbine_e11.iff",
+					"Enhanced E11 Carbine", "object/weapon/ranged/carbine/carbine_e11_quest.iff",
+					"Lithitanium Carbine", "object/weapon/ranged/carbine/carbine_e11_victor_quest.iff",
+					"EE3 Carbine", "object/weapon/ranged/carbine/carbine_ee3.iff",
+					"Elite Carbine", "object/weapon/ranged/carbine/carbine_elite.iff",
 					"Laser Carbine", "object/weapon/ranged/carbine/carbine_laser.iff",
-				--		"Nym's Slug-thrower Carbine", "object/weapon/ranged/carbine/carbine_nym_slugthrower.iff"
+					"Nym's Slug-thrower Carbine", "object/weapon/ranged/carbine/carbine_nym_slugthrower.iff"
 				},
 				"Heavy",
 				{
-					--		"Acid Stream Launcher", "object/weapon/ranged/heavy/heavy_acid_beam.iff",
-					--		"Beam Rifle", "object/weapon/ranged/rifle/rifle_beam.iff",
+					"Acid Stream Launcher", "object/weapon/ranged/heavy/heavy_acid_beam.iff",
+					"Beam Rifle", "object/weapon/ranged/rifle/rifle_beam.iff",
 					"Flame Thrower", "object/weapon/ranged/rifle/rifle_flame_thrower.iff",
-					--		"Heavy Acid Rifle", "object/weapon/ranged/rifle/rifle_acid_beam.iff",
-					--		"Heavy Particle Beam Cannon", "object/weapon/ranged/heavy/heavy_particle_beam.iff",
-					--		"Lightning Beam Cannon", "object/weapon/ranged/heavy/heavy_lightning_beam.iff",
+					"Heavy Acid Rifle", "object/weapon/ranged/rifle/rifle_acid_beam.iff",
+					"Heavy Particle Beam Cannon", "object/weapon/ranged/heavy/heavy_particle_beam.iff",
+					"Lightning Beam Cannon", "object/weapon/ranged/heavy/heavy_lightning_beam.iff",
 					"Light Lightning Cannon", "object/weapon/ranged/rifle/rifle_lightning.iff",
-				--		"Rocket Launcher", "object/weapon/ranged/heavy/heavy_rocket_launcher.iff"
+					"Rocket Launcher", "object/weapon/ranged/heavy/heavy_rocket_launcher.iff"
 				},
 				"One-handed",
 				{
-					--		"Sword", "object/weapon/melee/sword/sword_01.iff",
-					--		"Sword (noob)", "object/weapon/melee/sword/sword_01_noob.iff",
-					--		"Curved Sword", "object/weapon/melee/sword/sword_02.iff",
-					--		"Ryyk Blade", "object/weapon/melee/sword/sword_blade_ryyk.iff",
-					--		"Curved Nyax Sword", "object/weapon/melee/sword/sword_curved_nyax.iff",
-					--		"Nyax Sword", "object/weapon/melee/sword/sword_nyax.iff",
-					--		"Rantok", "object/weapon/melee/sword/sword_rantok.iff",
-					--		"Survival Knife", "object/weapon/melee/knife/knife_survival.iff",
-					--		"Dagger", "object/weapon/melee/knife/knife_dagger.iff",
-					--		"Donkuwah Knife", "object/weapon/melee/knife/knife_donkuwah.iff",
-					--		"Janta Knife", "object/weapon/melee/knife/knife_janta.iff",
-					--		"Stone Knife", "object/weapon/melee/knife/knife_stone.iff",
-					--		"Stone Knife (noob)", "object/weapon/melee/knife/knife_stone_noob.iff",
-					--		"Vibroblade", "object/weapon/melee/knife/knife_vibroblade.iff",
-					--		"Jagged Vibroblade", "object/weapon/melee/knife/knife_vibroblade_quest.iff",
+					"Sword", "object/weapon/melee/sword/sword_01.iff",
+					"Sword (noob)", "object/weapon/melee/sword/sword_01_noob.iff",
+					"Curved Sword", "object/weapon/melee/sword/sword_02.iff",
+					"Ryyk Blade", "object/weapon/melee/sword/sword_blade_ryyk.iff",
+					"Curved Nyax Sword", "object/weapon/melee/sword/sword_curved_nyax.iff",
+					"Nyax Sword", "object/weapon/melee/sword/sword_nyax.iff",
+					"Rantok", "object/weapon/melee/sword/sword_rantok.iff",
+					"Survival Knife", "object/weapon/melee/knife/knife_survival.iff",
+					"Dagger", "object/weapon/melee/knife/knife_dagger.iff",
+					"Donkuwah Knife", "object/weapon/melee/knife/knife_donkuwah.iff",
+					"Janta Knife", "object/weapon/melee/knife/knife_janta.iff",
+					"Stone Knife", "object/weapon/melee/knife/knife_stone.iff",
+					"Stone Knife (noob)", "object/weapon/melee/knife/knife_stone_noob.iff",
+					"Vibroblade", "object/weapon/melee/knife/knife_vibroblade.iff",
+					"Jagged Vibroblade", "object/weapon/melee/knife/knife_vibroblade_quest.iff",
 					"Stun Baton", "object/weapon/melee/baton/baton_stun.iff",
 					"Gaderiffi Baton", "object/weapon/melee/baton/baton_gaderiffi.iff",
-				--		"Black Metal Gaderiffi Baton", "object/weapon/melee/baton/victor_baton_gaderiffi.iff"
+					"Black Metal Gaderiffi Baton", "object/weapon/melee/baton/victor_baton_gaderiffi.iff"
 				},
 				"Pistols",
 				{
-					--		"CDEF Pistol", "object/weapon/ranged/pistol/pistol_cdef.iff",
-					--		"CDEF Pistol (noob)", "object/weapon/ranged/pistol/pistol_cdef_noob.iff",
-					--		"Corsec CDEF Pistol", "object/weapon/ranged/pistol/pistol_cdef_corsec.iff",
-					--		"D18 Pistol", "object/weapon/ranged/pistol/pistol_d18.iff",
-					--		"DE-10 Pistol", "object/weapon/ranged/pistol/pistol_de_10.iff",
-					--		"DH17 Pistol", "object/weapon/ranged/pistol/pistol_dh17.iff",
-					--		"DL44 Pistol", "object/weapon/ranged/pistol/pistol_dl44.iff",
-					--		"DL44 Metal Pistol", "object/weapon/ranged/pistol/pistol_dl44_metal.iff",
-					--		"DX2 Pistol", "object/weapon/ranged/pistol/pistol_dx2.iff",
+					"CDEF Pistol", "object/weapon/ranged/pistol/pistol_cdef.iff",
+					"CDEF Pistol (noob)", "object/weapon/ranged/pistol/pistol_cdef_noob.iff",
+					"Corsec CDEF Pistol", "object/weapon/ranged/pistol/pistol_cdef_corsec.iff",
+					"D18 Pistol", "object/weapon/ranged/pistol/pistol_d18.iff",
+					"DE-10 Pistol", "object/weapon/ranged/pistol/pistol_de_10.iff",
+					"DH17 Pistol", "object/weapon/ranged/pistol/pistol_dh17.iff",
+					"DL44 Pistol", "object/weapon/ranged/pistol/pistol_dl44.iff",
+					"DL44 Metal Pistol", "object/weapon/ranged/pistol/pistol_dl44_metal.iff",
+					"DX2 Pistol", "object/weapon/ranged/pistol/pistol_dx2.iff",
 					"FWG5 Pistol", "object/weapon/ranged/pistol/pistol_fwg5.iff",
-					--		"Featherweight FWG5 Pistol", "object/weapon/ranged/pistol/pistol_fwg5_quest.iff",
-					--		"Geonosian Sonic Blaster", "object/weapon/ranged/pistol/pistol_geonosian_sonic_blaster_loot.iff",
+					"Featherweight FWG5 Pistol", "object/weapon/ranged/pistol/pistol_fwg5_quest.iff",
+					"Geonosian Sonic Blaster", "object/weapon/ranged/pistol/pistol_geonosian_sonic_blaster_loot.iff",
 					"Launcher Pistol", "object/weapon/ranged/pistol/pistol_launcher.iff",
-					--		"Power5 Pistol", "object/weapon/ranged/pistol/pistol_power5.iff",
+					"Power5 Pistol", "object/weapon/ranged/pistol/pistol_power5.iff",
 					"Republic Blaster", "object/weapon/ranged/pistol/pistol_republic_blaster.iff",
-					--		"Modified Republic Blaster", "object/weapon/ranged/pistol/pistol_republic_blaster_quest.iff",
+					"Modified Republic Blaster", "object/weapon/ranged/pistol/pistol_republic_blaster_quest.iff",
 					"Scatter Pistol", "object/weapon/ranged/pistol/pistol_scatter.iff",
-				--		"Scout Blaster", "object/weapon/ranged/pistol/pistol_scout_blaster.iff",
-				--		"SR Combat Pistol", "object/weapon/ranged/pistol/pistol_srcombat.iff",
-				--		"Striker Pistol", "object/weapon/ranged/pistol/pistol_striker.iff",
-				--		"Striker Pistol (noob)", "object/weapon/ranged/pistol/pistol_striker_noob.iff",
-				--		"Tangle Pistol", "object/weapon/ranged/pistol/pistol_tangle.iff"
+					"Scout Blaster", "object/weapon/ranged/pistol/pistol_scout_blaster.iff",
+					"SR Combat Pistol", "object/weapon/ranged/pistol/pistol_srcombat.iff",
+					"Striker Pistol", "object/weapon/ranged/pistol/pistol_striker.iff",
+					"Striker Pistol (noob)", "object/weapon/ranged/pistol/pistol_striker_noob.iff",
+					"Tangle Pistol", "object/weapon/ranged/pistol/pistol_tangle.iff"
 				},
 				"Polearms",
 				{
-					--		"Lance", "object/weapon/melee/polearm/lance_controllerfp.iff",
-					--		"Nightsister Lance", "object/weapon/melee/polearm/lance_controllerfp_nightsister.iff",
-					--		"Nightsister Energy Lance", "object/weapon/melee/polearm/lance_nightsister.iff",
-					--		"Janta Staff", "object/weapon/melee/polearm/lance_staff_janta.iff",
-					--		"Metal Staff", "object/weapon/melee/polearm/lance_staff_metal.iff",
+					"Lance", "object/weapon/melee/polearm/lance_controllerfp.iff",
+					"Nightsister Lance", "object/weapon/melee/polearm/lance_controllerfp_nightsister.iff",
+					"Nightsister Energy Lance", "object/weapon/melee/polearm/lance_nightsister.iff",
+					"Janta Staff", "object/weapon/melee/polearm/lance_staff_janta.iff",
+					"Metal Staff", "object/weapon/melee/polearm/lance_staff_metal.iff",
 					"Vibro Lance", "object/weapon/melee/polearm/lance_vibrolance.iff",
 					"Long Vibro Axe", "object/weapon/melee/polearm/polearm_vibro_axe.iff",
-				--		"Wood Staff", "object/weapon/melee/polearm/lance_staff_wood_s1.iff",
-				--		"Reinforced Combat Staff", "object/weapon/melee/polearm/lance_staff_wood_s2.iff",
+					"Wood Staff", "object/weapon/melee/polearm/lance_staff_wood_s1.iff",
+					"Reinforced Combat Staff", "object/weapon/melee/polearm/lance_staff_wood_s2.iff",
 				},
 				"Rifles",
 				{
-					--		"Berserker Rifle", "object/weapon/ranged/rifle/rifle_berserker.iff",
-					--		"Bowcaster", "object/weapon/ranged/rifle/rifle_bowcaster.iff",
-					--		"CDEF Rifle", "object/weapon/ranged/rifle/rifle_cdef.iff",
-					--		"DLT20 Rifle", "object/weapon/ranged/rifle/rifle_dlt20.iff",
-					--		"DLT20a Rifle", "object/weapon/ranged/rifle/rifle_dlt20a.iff",
-					--		"E11 Rifle", "object/weapon/ranged/rifle/rifle_e11.iff",
-					--		"An Ewok Crossbow", "object/weapon/ranged/rifle/rifle_ewok_crossbow.iff",
+					"Berserker Rifle", "object/weapon/ranged/rifle/rifle_berserker.iff",
+					"Bowcaster", "object/weapon/ranged/rifle/rifle_bowcaster.iff",
+					"CDEF Rifle", "object/weapon/ranged/rifle/rifle_cdef.iff",
+					"DLT20 Rifle", "object/weapon/ranged/rifle/rifle_dlt20.iff",
+					"DLT20a Rifle", "object/weapon/ranged/rifle/rifle_dlt20a.iff",
+					"E11 Rifle", "object/weapon/ranged/rifle/rifle_e11.iff",
+					"An Ewok Crossbow", "object/weapon/ranged/rifle/rifle_ewok_crossbow.iff",
 					"Jawa Ion Rifle", "object/weapon/ranged/rifle/rifle_jawa_ion.iff",
-					--		"Laser Rifle", "object/weapon/ranged/rifle/rifle_laser.iff",
-					--		"Laser Rifle (noob)", "object/weapon/ranged/rifle/rifle_laser_noob.iff",
-					--		"Lithitanium Rifle", "object/weapon/ranged/rifle/rifle_victor_tusken.iff",
-					--		"SG82 Rifle", "object/weapon/ranged/rifle/rifle_sg82.iff",
-					--		"Spraystick", "object/weapon/ranged/rifle/rifle_spraystick.iff",
-					--		"Tenloss DXR-6 Disruptor Rifle", "object/weapon/ranged/rifle/rifle_tenloss_dxr6_disruptor_loot.iff",
+					"Laser Rifle", "object/weapon/ranged/rifle/rifle_laser.iff",
+					"Laser Rifle (noob)", "object/weapon/ranged/rifle/rifle_laser_noob.iff",
+					"Lithitanium Rifle", "object/weapon/ranged/rifle/rifle_victor_tusken.iff",
+					"SG82 Rifle", "object/weapon/ranged/rifle/rifle_sg82.iff",
+					"Spraystick", "object/weapon/ranged/rifle/rifle_spraystick.iff",
+					"Tenloss DXR-6 Disruptor Rifle", "object/weapon/ranged/rifle/rifle_tenloss_dxr6_disruptor_loot.iff",
 					"T21", "object/weapon/ranged/rifle/rifle_t21.iff",
-				--		"Tusken Rifle", "object/weapon/ranged/rifle/rifle_tusken.iff"
+					"Tusken Rifle", "object/weapon/ranged/rifle/rifle_tusken.iff"
 				},
 				"Two-handed",
 				{
 					"Two-handed Curved Sword", "object/weapon/melee/2h_sword/2h_sword_katana.iff",
-					--		"Grooved Two-handed Sword", "object/weapon/melee/2h_sword/2h_sword_katana_quest.iff",
-					--		"Scythe Blade", "object/weapon/melee/2h_sword/2h_sword_scythe.iff",
+					"Grooved Two-handed Sword", "object/weapon/melee/2h_sword/2h_sword_katana_quest.iff",
+					"Scythe Blade", "object/weapon/melee/2h_sword/2h_sword_scythe.iff",
 					"Power Hammer", "object/weapon/melee/2h_sword/2h_sword_maul.iff",
-				--		"Two-handed Cleaver", "object/weapon/melee/2h_sword/2h_sword_cleaver.iff",
-				--		"Black Sun Executioner's Hack", "object/weapon/melee/2h_sword/2h_sword_blacksun_hack.iff",
-				--		"Gamorrean Battleaxe", "object/weapon/melee/2h_sword/2h_sword_battleaxe_quest.iff",
-				--		"Heavy Axe", "object/weapon/melee/axe/axe_heavy_duty.iff",
-				--		"Vibro Axe", "object/weapon/melee/axe/axe_vibroaxe.iff"
+					"Two-handed Cleaver", "object/weapon/melee/2h_sword/2h_sword_cleaver.iff",
+					"Black Sun Executioner's Hack", "object/weapon/melee/2h_sword/2h_sword_blacksun_hack.iff",
+					"Gamorrean Battleaxe", "object/weapon/melee/2h_sword/2h_sword_battleaxe_quest.iff",
+					"Heavy Axe", "object/weapon/melee/axe/axe_heavy_duty.iff",
+					"Vibro Axe", "object/weapon/melee/axe/axe_vibroaxe.iff"
 				},
 				"Unarmed",
 				{
 					"Vibro Knuckler", "object/weapon/melee/special/vibroknuckler.iff",
-				--		"A Blacksun Razor Knuckler", "object/weapon/melee/special/blacksun_razor.iff"
+					"A Blacksun Razor Knuckler", "object/weapon/melee/special/blacksun_razor.iff"
 				}
 			},
-			--"Holocrons",
-			--{
-			--	"Dark Jedi Holocron", "object/tangible/jedi/jedi_holocron_dark.iff",
-			--	"Light Jedi Holocron", "object/tangible/jedi/jedi_holocron_light.iff",
-			--	"Dark Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_dark.iff",
-			--	"Light Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_light.iff"
-			--}
-			"Village Testing (Temporary)",
-			{
-				"Resources",
-				{
-					"Ardanium II", "object/tangible/loot/quest/ardanium_ii.iff",
-					"Endrine", "object/tangible/loot/quest/endrine.iff",
-					"Ostrine", "object/tangible/loot/quest/ostrine.iff",
-					"Rudic", "object/tangible/loot/quest/rudic.iff",
-					"Wind Crystal", "object/tangible/loot/quest/wind_crystal.iff",
-				},
-				"Loot Kit Parts",
-				{
-					"Tracking Device Assembly Bracket - First Segment", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_assembly_bracket_01.iff",
-					"Tracking Device Assembly Bracket - Second Segment", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_assembly_bracket_02.iff",
-					"Tracking Device Assembly Bracket - Third Segment", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_assembly_bracket_03.iff",
-					"Tracking Device Case - First Section", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_case_01.iff",
-					"Tracking Device Case - Second Section", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_case_02.iff",
-					"Tracking Device Case - Third Section", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_case_03.iff",
-				},
-			}
+			-- "Holocrons",
+			-- {
+			-- 	"Dark Jedi Holocron", "object/tangible/jedi/jedi_holocron_dark.iff",
+			-- 	"Light Jedi Holocron", "object/tangible/jedi/jedi_holocron_light.iff",
+			-- 	"Dark Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_dark.iff",
+			-- 	"Light Jedi Holocron (gift)", "object/tangible/jedi/no_drop_jedi_holocron_light.iff"
+			-- }
+			-- "Village Testing (Temporary)",
+			-- {
+			-- 	"Resources",
+			-- 	{
+			-- 		"Ardanium II", "object/tangible/loot/quest/ardanium_ii.iff",
+			-- 		"Endrine", "object/tangible/loot/quest/endrine.iff",
+			-- 		"Ostrine", "object/tangible/loot/quest/ostrine.iff",
+			-- 		"Rudic", "object/tangible/loot/quest/rudic.iff",
+			-- 		"Wind Crystal", "object/tangible/loot/quest/wind_crystal.iff",
+			-- 	},
+			-- 	"Loot Kit Parts",
+			-- 	{
+			-- 		"Tracking Device Assembly Bracket - First Segment", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_assembly_bracket_01.iff",
+			-- 		"Tracking Device Assembly Bracket - Second Segment", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_assembly_bracket_02.iff",
+			-- 		"Tracking Device Assembly Bracket - Third Segment", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_assembly_bracket_03.iff",
+			-- 		"Tracking Device Case - First Section", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_case_01.iff",
+			-- 		"Tracking Device Case - Second Section", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_case_02.iff",
+			-- 		"Tracking Device Case - Third Section", "object/tangible/loot/collectible/collectible_parts/fs_tracking_device_case_03.iff",
+			-- 	},
+			-- }
 		}
 	}
 }
