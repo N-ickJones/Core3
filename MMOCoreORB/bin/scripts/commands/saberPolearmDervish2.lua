@@ -50,9 +50,15 @@ SaberPolearmDervish2Command = {
 	healthCostMultiplier = 0,
 	actionCostMultiplier = 0,
 	mindCostMultiplier = 0,
-	coneAngle = 45,
-	coneAction = true,
-	coneRange = 24,
+	--coneAngle = 45,
+	--coneAction = true,
+	--coneRange = 24,
+
+	-- Modifies Dervish 2 into an area attack
+	areaAction = true,
+	areaRange = 16,
+
+	
 	forceCostMultiplier = 3.0,
 	visMod = 25,
 

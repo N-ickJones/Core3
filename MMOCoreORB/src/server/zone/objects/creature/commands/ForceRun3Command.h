@@ -44,7 +44,8 @@ public:
 
 		Locker locker(multBuff);
 
-		multBuff->setSkillModifier("private_damage_divisor", 20);
+		// Removes damage modifier from Force Run 3
+		//multBuff->setSkillModifier("private_damage_divisor", 20);
 
 		creature->addBuff(multBuff);
 
