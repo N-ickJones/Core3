@@ -424,7 +424,7 @@ bool SkillManager::awardSkill(const String& skillName, CreatureObject* creature,
 
 		const SkillList* list = creature->getSkillList();
 
-		int totalSkillPointsWasted = 250;
+		int totalSkillPointsWasted = 25000;
 
 		for (int i = 0; i < list->size(); ++i) {
 			Skill* skill = list->get(i);
@@ -433,7 +433,7 @@ bool SkillManager::awardSkill(const String& skillName, CreatureObject* creature,
 		}
 
 		if (ghost->getSkillPoints() != totalSkillPointsWasted) {
-			creature->error("skill points mismatch calculated: " + String::valueOf(totalSkillPointsWasted) + " found: " + String::valueOf(ghost->getSkillPoints()));
+			//creature->error("skill points mismatch calculated: " + String::valueOf(totalSkillPointsWasted) + " found: " + String::valueOf(ghost->getSkillPoints()));
 			ghost->setSkillPoints(totalSkillPointsWasted);
 		}
 
@@ -630,7 +630,7 @@ bool SkillManager::surrenderSkill(const String& skillName, CreatureObject* creat
 
 		const SkillList* list = creature->getSkillList();
 
-		int totalSkillPointsWasted = 250;
+		int totalSkillPointsWasted = 25000;
 
 		for (int i = 0; i < list->size(); ++i) {
 			Skill* skill = list->get(i);
@@ -639,7 +639,7 @@ bool SkillManager::surrenderSkill(const String& skillName, CreatureObject* creat
 		}
 
 		if (ghost->getSkillPoints() != totalSkillPointsWasted) {
-			creature->error("skill points mismatch calculated: " + String::valueOf(totalSkillPointsWasted) + " found: " + String::valueOf(ghost->getSkillPoints()));
+			//creature->error("skill points mismatch calculated: " + String::valueOf(totalSkillPointsWasted) + " found: " + String::valueOf(ghost->getSkillPoints()));
 			ghost->setSkillPoints(totalSkillPointsWasted);
 		}
 

@@ -2453,7 +2453,7 @@ void CreatureObjectImplementation::notifyLoadFromDatabase() {
 	auto skillManager = SkillManager::instance();
 	const SkillList* playerSkillList = getSkillList();
 
-	int totalSkillPointsWasted = 250;
+	int totalSkillPointsWasted = 25000;
 
 	for (int i = 0; i < playerSkillList->size(); ++i) {
 		Skill* skill = playerSkillList->get(i);
@@ -2467,7 +2467,7 @@ void CreatureObjectImplementation::notifyLoadFromDatabase() {
 	}
 
 	if (ghost->getSkillPoints() != totalSkillPointsWasted) {
-		error() << "skill points on load mismatch calculated: " << totalSkillPointsWasted << " found: " << ghost->getSkillPoints();
+		//error() << "skill points on load mismatch calculated: " << totalSkillPointsWasted << " found: " << ghost->getSkillPoints();
 		ghost->setSkillPoints(totalSkillPointsWasted);
 	}
 
